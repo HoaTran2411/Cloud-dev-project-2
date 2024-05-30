@@ -22,3 +22,9 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## Link to the endpoint URL for a running elastic beanstalk deployment
+http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/
+
+http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/16/218316-050-7C53C22A/European-wildcat-Felis-silvestris-prey.jpg
+
